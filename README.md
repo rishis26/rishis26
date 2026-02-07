@@ -1,41 +1,5 @@
 # Rishi Shah
 
-**Computer Science Undergraduate**  
-**Cybersecurity & Digital Forensics**  
-**Full-Stack Web Developer | React & React Native**  
-**Android & iOS Developer | DSA | Real-Time Systems | DevOps Fundamentals**
-
----
-
-## About Me
-
-I am a Computer Science undergraduate at **VIT Bhopal University**, specializing in **Cybersecurity and Digital Forensics**.  
-I focus on building **end-to-end applications** while strengthening my foundation in **Data Structures & Algorithms (DSA)**, system design, and real-world engineering practices.
-
-I prefer **learning by building**, covering frontend, backend, real-time communication, deployment, and security fundamentals rather than relying only on theoretical knowledge.
-
----
-
-## Social Profiles
-
-<a href="https://linkedin.com/in/rishis26">
-  <img src="https://img.icons8.com/color/32/linkedin.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/rishis26">
-  <img src="https://img.icons8.com/color/32/instagram-new.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rishis26">
-  <img src="https://img.icons8.com/ios-glyphs/32/github.png"/>
-</a>
-
----
-
-## Technical Skills
-
-# Rishi Shah
-
 Computer Science Undergraduate  
 Cybersecurity & Digital Forensics  
 Full-Stack Web Developer | React & React Native  
