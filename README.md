@@ -17,6 +17,8 @@ I focus on building **end-to-end applications** while maintaining a solid unders
 
 My approach emphasizes **practical development backed by strong fundamentals**, ensuring scalability, performance, and maintainability in real-world systems.
 
+🌐 **Portfolio:** [rishis26.tech](https://rishis26.tech)
+
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/22/ffffff/share.png"/> Social Profiles
@@ -44,6 +46,7 @@ My approach emphasizes **practical development backed by strong fundamentals**, 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge)
 
@@ -102,21 +105,30 @@ My approach emphasizes **practical development backed by strong fundamentals**, 
 
 **B.Tech – Computer Science & Engineering**  
 *(Cybersecurity & Digital Forensics)*  
-**VIT Bhopal University** | 2023 – 2027
+**VIT Bhopal University** | Aug 2023 – May 2027
 
-**Higher Secondary (11th–12th)**  
-Shree Shantiniketan English School, Latur
+**Higher Secondary (Class 11–12)** — CBSE, Grade: A  
+Shree Shantiniketan English School, Latur · _Apr 2021 – Mar 2023_
 
-**Secondary School (9th–10th)**  
-Podar International School, Latur
+**Secondary School (Class 9–10)** — CBSE, Grade: A  
+Podar International School, Latur · _Apr 2019 – Mar 2021_
 
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/22/ffffff/briefcase.png"/> Experience & Community
 
-- **Frontend Developer Intern** — Genxploit  
-- **Web Developer Intern** — Aquila Events & Marketing  
-- **Member** — Null VIT Bhopal Student Chapter  
-- **Volunteer** — NSS Unit, VIT Bhopal University  
+- **Frontend Developer Intern** — Genxploit _(Dec 2025 – Present)_
+- **Web Developer Intern** — Aquila Events & Marketing _(Oct 2025 – Present)_
+- **Freelance Web Developer** — Promotr · [promotr.co.in](https://promotr.co.in) _(2025)_
+- **Freelance Web Developer** — Ahilyadevi Holkar Kanya Vidyalay · [ahkvbasmath.in](https://www.ahkvbasmath.in) _(Sep–Oct 2024)_
+- **Member** — Null VIT Bhopal Student Chapter _(2024 – Present)_
+- **Volunteer** — NSS Unit, VIT Bhopal University _(2023 – Present)_
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **Hackbyte 3.0 Champion** — 1st place among 500+ participants at IIITDM Jabalpur _(Apr 2025)_
+- 🏆 **National CyberShield Finalist** — Top 15 of 500+ teams at MANIT Bhopal by MP Police _(Apr 2025)_
 
 ---
